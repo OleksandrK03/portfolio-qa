@@ -1,0 +1,62 @@
+<people>
+	<person>
+		<id>1</id>
+		<name>Олександр</name>
+		<address>
+			<city>Київ</city>
+			<street>Вул. Шевченка</street>
+			<house>10</house>
+			<apartment>22</apartment>
+		</address>
+		<contacts>
+			<phone>+380501234567</phone>
+			<email>olexandr@example.com</email>
+			<telegram>@olexsander</telegram>
+		</contacts>
+	</person>
+	<person>
+		<id>2</id>
+		<name>Марина</name>
+		<address>
+			<city>Київ</city>
+			<street>Вул. Чорновола</street>
+			<house>7</house>
+			<apartment>17</apartment>
+		</address>
+		<contacts>
+			<phone>+380637773434</phone>
+			<email>marina@example.com</email>
+			<telegram>@marina</telegram>
+		</contacts>
+	</person>
+	<person>
+		<id>3</id>
+		<name>Микола</name>
+		<address>
+			<city>Львів</city>
+			<street>Вул. Авіаційна</street>
+			<house>36</house>
+			<apartment>5</apartment>
+		</address>
+		<contacts>
+			<phone>+380687654321</phone>
+			<email>mykola@example.com</email>
+			<telegram>@mykola</telegram>
+		</contacts>
+	</person>
+	<person>
+		<id>4</id>
+		<name>Олена</name>
+		<address>
+			<city>Чернігів</city>
+			<street>Вул. Козацька</street>
+			<house>8</house>
+			<apartment>15</apartment>
+		</address>
+		<contacts>
+			<phone>+380732221133</phone>
+			<email>olena@example.com</email>
+			<telegram>@olena</telegram>
+		</contacts>
+	</person>
+</people>
