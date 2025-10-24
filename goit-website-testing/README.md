@@ -1,4 +1,4 @@
-# Web Product QA Documentation
+# GoIt Website Testing – Java Exercises
 
 ## English Version
 
