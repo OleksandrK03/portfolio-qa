@@ -1,0 +1,64 @@
+{
+  "people": [
+    {
+      "id": "1",
+      "name": "Олександр",
+      "address": {
+        "city": "Київ",
+        "street": "Вул. Шевченка",
+        "house": "10",
+        "apartment": "22"
+      },
+      "contacts": {
+        "phone": "+380501234567",
+        "email": "olexandr@example.com",
+        "telegram": "@olexsander"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Марина",
+      "address": {
+        "city": "Київ",
+        "street": "Вул. Чорновола",
+        "house": "7",
+        "apartment": "17"
+      },
+      "contacts": {
+        "phone": "+380637773434",
+        "email": "marina@example.com",
+        "telegram": "@marina"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Микола",
+      "address": {
+        "city": "Львів",
+        "street": "Вул. Авіаційна",
+        "house": "36",
+        "apartment": "5"
+      },
+      "contacts": {
+        "phone": "+380687654321",
+        "email": "mykola@example.com",
+        "telegram": "@mykola"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Олена",
+      "address": {
+        "city": "Чернігів",
+        "street": "Вул. Козацька",
+        "house": "8",
+        "apartment": "15"
+      },
+      "contacts": {
+        "phone": "+380732221133",
+        "email": "olena@example.com",
+        "telegram": "@olena"
+      }
+    }
+  ]
+}
